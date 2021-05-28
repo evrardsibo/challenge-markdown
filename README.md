@@ -7,14 +7,23 @@ Donnez à ceux que vous aimez des ailes pour voler, des racines pour revenir , e
 ![](C:\Users\sibo1\Desktop\image\evrard.jpg)
 
 |Birthday | 10/10         |
+
 |--------  -------------  |
+
 |Gender | Male            |
+
 |--------  -------------  |
-|Favorite color | Blue    |   
+
+|Favorite color | Blue    | 
+
 |--------  -------------  |
+
 |Favorite food | Rice     |
+
 |--------  -------------  |
+
 |Pinneaple on pizza | [x] |
+
 |--------  -------------  |
 
 
