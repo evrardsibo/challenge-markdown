@@ -34,6 +34,6 @@ When I was a kid, I was always excited to learn new vocabulary. When I was in fi
 
 Nobody knows everything.
 
-[<<Previous](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) || Evrard || [Next>>](https://github.com/FrankZiWANG-dev/Markdown-solo)>
+[<<Previous](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) || Evrard || [Next>>](https://github.com/FrankZiWANG-dev/Markdown-solo)
 
 
