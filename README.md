@@ -28,6 +28,12 @@ First i am easy person , when you want some thing i am always ready and i will d
 
 ##### Funny story
 
+When I was a kid, I was always excited to learn new vocabulary. When I was in first grade, my teacher taught me that “shin” was another word for leg.
 
+##### TL;DR
+
+Nobody knows everything.
+
+<< [Previous](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) || Evrard || [Next](https://github.com/FrankZiWANG-dev/Markdown-solo) >>
 
 
