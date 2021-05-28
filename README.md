@@ -19,7 +19,11 @@ Donnez à ceux que vous aimez des ailes pour voler, des racines pour revenir , e
 |Pinneaple on pizza | [x] |
 
 
-
+| Birthday       | 10/10     | 
+|-----------     |-----------|
+| Gender         | Male      | 
+| Favorite food  | Rice      |
+| Favorite color |  blue     |
 
 
 
