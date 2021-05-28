@@ -1,6 +1,6 @@
 # *Sibomana Evrard*
 
-Donnez à ceux que vous aimez des ailes pour voler, des racines pour revenir , et des raisons de rester.
+Give your loved ones wings to fly, roots to come back to, and reasons to stay.
 
 ##### Me
 
