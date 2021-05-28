@@ -12,7 +12,7 @@ Donnez à ceux que vous aimez des ailes pour voler, des racines pour revenir , e
 | Gender         | Male      | 
 | Favorite food  | Rice      |
 | Favorite color |  blue     |
-| pinneaple on pizza | - [ ] Yes Non |
+| pinneaple on pizza | [x]  |
 
 ##### Hobbies
 
