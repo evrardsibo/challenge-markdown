@@ -12,9 +12,21 @@ Donnez à ceux que vous aimez des ailes pour voler, des racines pour revenir , e
 | Gender         | Male      | 
 | Favorite food  | Rice      |
 | Favorite color |  blue     |
-| pinneaple on pizza | - [ ] Yes/Non |
+| pinneaple on pizza | - [ ] Yes Non |
 
+##### Hobbies
 
+* Information
+* Music 
+    - old music
+    - Reggae
+* Documentary movies
+
+##### You can always count on me when
+
+First i am easy person , when you want some thing i am always ready and i will do all to make happy the team
+
+##### Funny story
 
 
 
